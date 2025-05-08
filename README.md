@@ -7,17 +7,19 @@ Welcome to my GitHub profile! 🌟
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/alexandre-tahi-60428420b/)
+- [Instagram](https://www.instagram.com/alexxtahi/)
+- [Malt](https://www.malt.fr/profile/alexandretahi)
 
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=ts,js,java)
+![Languages](https://skillicons.dev/icons?i=ts,js,java,php,dart)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=azure,docker,fastapi&perline=3)](https://skillicons.dev)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,spring)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,jira)
